@@ -1,5 +1,4 @@
 # Leaguer
-[![CircleCI](https://circleci.com/gh/L33tCh/leaguer.svg?style=svg)](https://circleci.com/gh/L33tCh/leaguer)
 
 ## Usage
 For manual line by line input: `python3 leaguer.py` or `./leaguer.py`
