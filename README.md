@@ -1,7 +1,7 @@
 # Leaguer
 
 ## Usage
-For manual line by line input: `python3 leaguer.py` or `./leaguer.py`
+For manual line by line input: `python3 leaguer.py` or `./leaguer.py` if you have python3+ mapped to your python command
 
 For input by file: `python3 leaguer.py <input_file.txt>` or `./leaguer.py <input_file.txt>`
 
@@ -28,10 +28,10 @@ printed in alphabetical order (as in the tie for 3rd place in the sample data).
 #### Guidelines
 Written for Python 3.7 and [pytest](https://docs.pytest.org/en/latest/) used for testing
 
-pytest requirement only required for testing and not just app use
+To run all test, ensure pytest in installed (`pip3 install -U pytest`) and run `python3 -m pytest` in the app root directory
 
 #### Platform support
-Developed on Manjaro Linux resulting in Unix line feed for line endings.
+Developed on Manjaro Linux resulting in Unix line feed (LF) for line endings.
 
 #### Sample input:
 ||
